@@ -37,13 +37,13 @@
     
 <h3 align="center">Mobile App Development:</h3>
     <p align="center">
-  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,androidstudio&perline=14" />
+  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,react,swift,androidstudio&perline=14" />
   </a>
 </p> </a> 
 
 - **Backend as a Service(BaaS):**:
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase&perline=14" />
+  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase,nodejs,nestjs,supabase&perline=14" />
   </a>
 </p>
 </p>
@@ -67,7 +67,7 @@
 - **Extras**:
 
     <p align="center">
-  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,html,css,discord,mysql,python&perline=14" />
+  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,discord,mysql,python&perline=14" />
   </a>
 </p> 
 
